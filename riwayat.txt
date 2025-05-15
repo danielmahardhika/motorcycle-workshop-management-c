@@ -1,0 +1,361 @@
+25/04/2023 - 12:56:19 - Menambahkan data servis
+25/04/2023 - 12:56:36 - Menambahkan data part
+25/04/2023 - 12:56:57 - Menambahkan data servis
+25/04/2023 - 12:57:12 - Menambahkan data part
+25/04/2023 - 13:00:56 - Menghapus data part
+25/04/2023 - 13:05:40 - Menambahkan data servis
+25/04/2023 - 13:05:45 - Menghapus data servis
+25/04/2023 - 13:09:10 - Menghapus data part
+25/04/2023 - 13:11:36 - Menambahkan data servis
+25/04/2023 - 13:11:55 - Menambahkan data servis
+25/04/2023 - 13:12:07 - Menambahkan data part
+25/04/2023 - 13:12:35 - Menambahkan data part
+25/04/2023 - 13:12:48 - Menghapus data part
+25/04/2023 - 13:13:05 - Menambahkan data part
+25/04/2023 - 13:13:12 - Menghapus data part
+25/04/2023 - 13:14:07 - Mengedit data servis
+25/04/2023 - 13:17:16 - Menambahkan data servis
+25/04/2023 - 13:17:52 - Menambahkan data part
+25/04/2023 - 13:18:04 - Menambahkan data part
+25/04/2023 - 14:57:27 - Login gagal
+25/04/2023 - 14:57:33 - Membuka riwayat aktifitas program
+25/04/2023 - 14:57:45 - Melihat data servis
+25/04/2023 - 14:57:51 - Melihat data part
+25/04/2023 - 14:57:53 - Membuka riwayat aktifitas program
+25/04/2023 - 14:57:58 - Membuka riwayat aktifitas program
+25/04/2023 - 14:58:45 - Login berhasil
+25/04/2023 - 14:58:46 - Membuka riwayat aktifitas program
+25/04/2023 - 14:58:59 - Login berhasil
+25/04/2023 - 14:59:04 - Searching data servis
+25/04/2023 - 14:59:05 - Login berhasil
+25/04/2023 - 14:59:11 - Searching data servis
+25/04/2023 - 14:59:11 - Searching data servis
+25/04/2023 - 14:59:11 - Login berhasil
+25/04/2023 - 14:59:17 - Sorting data servis
+25/04/2023 - 14:59:17 - Login berhasil
+25/04/2023 - 14:59:19 - Membuka riwayat aktifitas program
+25/04/2023 - 14:59:27 - Login berhasil
+25/04/2023 - 15:00:33 - Membuka riwayat aktifitas program
+25/04/2023 - 15:00:38 - Membuka riwayat aktifitas program
+25/04/2023 - 15:04:47 - Login gagal
+25/04/2023 - 15:05:30 - Membuka riwayat aktifitas program
+25/04/2023 - 15:33:34 - Login gagal
+25/04/2023 - 15:35:01 - Membuka riwayat aktifitas program
+25/04/2023 - 15:35:46 - Melihat data part
+25/04/2023 - 15:35:51 - Melihat data part
+25/04/2023 - 15:39:26 - Membuka riwayat aktifitas program
+25/04/2023 - 15:39:39 - Sorting data servis
+25/04/2023 - 15:50:03 - Melihat data servis
+25/04/2023 - 15:51:05 - Melihat data servis
+25/04/2023 - 15:51:58 - Searching data servis
+25/04/2023 - 15:56:14 - Melihat data servis
+25/04/2023 - 16:02:19 - Melihat data servis
+25/04/2023 - 16:02:36 - Searching data servis
+25/04/2023 - 16:06:41 - Searching data servis
+25/04/2023 - 16:11:01 - Searching data servis
+25/04/2023 - 16:11:25 - Searching data servis
+25/04/2023 - 16:12:07 - Searching data servis
+25/04/2023 - 16:13:08 - Searching data servis
+25/04/2023 - 16:13:08 - Searching data servis
+25/04/2023 - 16:13:25 - Searching data part
+25/04/2023 - 16:13:25 - Searching data part
+25/04/2023 - 16:44:24 - Sorting data servis
+25/04/2023 - 16:45:12 - Sorting data servis
+25/04/2023 - 16:46:06 - Sorting data servis
+25/04/2023 - 16:46:26 - Sorting data part
+25/04/2023 - 16:47:03 - Sorting data part
+25/04/2023 - 16:48:12 - Sorting data part
+25/04/2023 - 16:48:52 - Membuka riwayat aktifitas program
+25/04/2023 - 16:48:57 - Membuka riwayat aktifitas program
+25/04/2023 - 16:59:09 - Keluar dari program
+25/04/2023 - 16:59:28 - Membuka riwayat aktifitas program
+25/04/2023 - 17:12:32 - Login gagal
+25/04/2023 - 17:24:20 - Login gagal
+25/04/2023 - 17:25:44 - Membuka riwayat aktifitas program
+25/04/2023 - 18:04:56 - Membuka riwayat aktifitas program
+25/04/2023 - 18:30:01 - Melihat data servis
+25/04/2023 - 18:30:12 - Membuka riwayat aktifitas program
+26/04/2023 - 13:46:56 - Membuka riwayat aktifitas program
+26/04/2023 - 13:47:20 - Membuka riwayat aktifitas program
+26/04/2023 - 13:53:36 - Membuka riwayat aktifitas program
+26/04/2023 - 13:53:43 - Melihat data servis
+26/04/2023 - 13:53:50 - Melihat data part
+26/04/2023 - 13:54:26 - Searching data servis
+26/04/2023 - 13:54:26 - Searching data servis
+26/04/2023 - 14:00:50 - Searching data servis
+26/04/2023 - 14:00:50 - Searching data servis
+26/04/2023 - 14:01:12 - Searching data servis
+26/04/2023 - 14:02:01 - Menambahkan data servis
+26/04/2023 - 14:02:11 - Searching data servis
+26/04/2023 - 14:03:20 - Membuka riwayat aktifitas program
+26/04/2023 - 14:05:41 - Membuka riwayat aktifitas program
+26/04/2023 - 14:05:53 - Melihat data part
+26/04/2023 - 14:06:08 - Searching data part
+26/04/2023 - 14:10:07 - Menambahkan data servis
+26/04/2023 - 14:10:10 - Melihat data servis
+26/04/2023 - 14:11:20 - Menghapus data servis
+26/04/2023 - 14:11:24 - Melihat data servis
+26/04/2023 - 14:14:02 - Melihat data servis
+26/04/2023 - 14:14:25 - Melihat data part
+26/04/2023 - 14:14:56 - Searching data servis
+26/04/2023 - 14:14:56 - Searching data servis
+26/04/2023 - 14:14:56 - Searching data servis
+26/04/2023 - 14:20:09 - Melihat data part
+26/04/2023 - 14:20:19 - Sorting data part
+26/04/2023 - 14:20:35 - Sorting data part
+26/04/2023 - 14:20:44 - Sorting data servis
+26/04/2023 - 14:21:50 - Melihat data part
+26/04/2023 - 14:21:53 - Melihat data servis
+26/04/2023 - 14:22:36 - Membuka riwayat aktifitas program
+26/04/2023 - 14:22:41 - Membuka data pembuat program
+26/04/2023 - 14:22:47 - Melihat data servis
+26/04/2023 - 14:22:56 - Membuka data pembuat program
+26/04/2023 - 14:23:01 - Membuka riwayat aktifitas program
+26/04/2023 - 14:23:33 - Login berhasil
+26/04/2023 - 14:23:37 - Membuka riwayat aktifitas program
+26/04/2023 - 14:23:50 - Membuka data pembuat program
+26/04/2023 - 14:23:57 - Keluar dari program
+26/04/2023 - 14:26:14 - Login berhasil
+26/04/2023 - 14:26:25 - Membuka data pembuat program
+26/04/2023 - 14:26:39 - Login berhasil
+26/04/2023 - 14:27:53 - Login berhasil
+26/04/2023 - 14:28:46 - Login berhasil
+26/04/2023 - 14:29:38 - Login berhasil
+26/04/2023 - 14:29:43 - Membuka data pembuat program
+26/04/2023 - 14:29:49 - Membuka riwayat aktifitas program
+26/04/2023 - 14:32:51 - Login berhasil
+26/04/2023 - 14:33:37 - Login berhasil
+26/04/2023 - 14:33:42 - Keluar dari program
+26/04/2023 - 14:34:02 - Login berhasil
+26/04/2023 - 14:35:27 - Login berhasil
+26/04/2023 - 14:35:41 - Login berhasil
+26/04/2023 - 14:35:50 - Membuka riwayat aktifitas program
+26/04/2023 - 14:39:32 - Login berhasil
+26/04/2023 - 14:43:02 - Login berhasil
+26/04/2023 - 14:46:10 - Login berhasil
+26/04/2023 - 14:46:22 - Login berhasil
+26/04/2023 - 14:46:25 - Membuka riwayat aktifitas program
+26/04/2023 - 14:46:48 - Sorting data part
+26/04/2023 - 14:47:11 - Keluar dari program
+26/04/2023 - 14:47:32 - Login berhasil
+26/04/2023 - 14:47:37 - Keluar dari program
+26/04/2023 - 14:47:50 - Login berhasil
+26/04/2023 - 14:47:54 - Membuka data pembuat program
+26/04/2023 - 14:50:44 - Login berhasil
+26/04/2023 - 14:50:54 - Membuka riwayat aktifitas program
+26/04/2023 - 14:52:39 - Login berhasil
+26/04/2023 - 14:53:20 - Sorting data servis
+26/04/2023 - 14:55:10 - Login berhasil
+26/04/2023 - 14:55:15 - Membuka data pembuat program
+26/04/2023 - 14:56:03 - Login berhasil
+26/04/2023 - 14:56:13 - Melihat data servis
+26/04/2023 - 14:56:28 - Menghapus data servis
+26/04/2023 - 14:57:08 - Login berhasil
+26/04/2023 - 14:57:54 - Menambahkan data servis
+26/04/2023 - 14:58:00 - Melihat data servis
+26/04/2023 - 14:58:05 - Menghapus data servis
+26/04/2023 - 14:58:31 - Mengedit data servis
+26/04/2023 - 14:58:35 - Melihat data servis
+26/04/2023 - 14:58:49 - Searching data servis
+26/04/2023 - 14:58:49 - Searching data servis
+26/04/2023 - 14:59:44 - Login berhasil
+26/04/2023 - 16:03:41 - Login berhasil
+26/04/2023 - 16:03:47 - Membuka riwayat aktifitas program
+26/04/2023 - 16:32:51 - Login berhasil
+26/04/2023 - 16:33:00 - Membuka riwayat aktifitas program
+26/04/2023 - 16:33:37 - Mengedit data servis
+26/04/2023 - 16:33:45 - Melihat data servis
+26/04/2023 - 16:49:23 - Login berhasil
+27/04/2023 - 16:40:16 - Login berhasil
+27/04/2023 - 16:41:00 - Menambahkan data part
+27/04/2023 - 16:41:12 - Membuka riwayat aktifitas program
+27/04/2023 - 16:41:41 - Login berhasil
+27/04/2023 - 16:44:26 - Login berhasil
+27/04/2023 - 16:45:10 - Menambahkan data part
+27/04/2023 - 16:46:52 - Login berhasil
+27/04/2023 - 16:47:29 - Menambahkan data servis
+27/04/2023 - 16:51:24 - Login berhasil
+27/04/2023 - 16:51:56 - Menambahkan data servis
+27/04/2023 - 16:52:29 - Login berhasil
+27/04/2023 - 16:52:49 - Menambahkan data servis
+27/04/2023 - 16:53:25 - Login berhasil
+27/04/2023 - 16:53:38 - Login berhasil
+27/04/2023 - 16:54:43 - Login berhasil
+27/04/2023 - 16:58:07 - Login berhasil
+27/04/2023 - 16:58:24 - Menambahkan data part
+27/04/2023 - 17:00:15 - Login berhasil
+27/04/2023 - 17:00:41 - Menambahkan data part
+27/04/2023 - 17:02:04 - Login berhasil
+27/04/2023 - 17:03:00 - Login berhasil
+27/04/2023 - 17:03:29 - Menambahkan data part
+27/04/2023 - 17:06:21 - Login berhasil
+27/04/2023 - 17:09:06 - Login berhasil
+27/04/2023 - 17:11:41 - Login berhasil
+27/04/2023 - 17:11:46 - Melihat data servis
+27/04/2023 - 17:12:43 - Login berhasil
+27/04/2023 - 17:13:09 - Menambahkan data servis
+27/04/2023 - 17:17:11 - Login berhasil
+27/04/2023 - 17:17:52 - Login berhasil
+27/04/2023 - 17:18:41 - Mengedit data part
+27/04/2023 - 17:20:25 - Login berhasil
+27/04/2023 - 17:24:14 - Login berhasil
+27/04/2023 - 17:25:32 - Login berhasil
+27/04/2023 - 17:25:36 - Melihat data part
+27/04/2023 - 17:26:21 - Login berhasil
+27/04/2023 - 17:27:30 - Menambahkan data part
+27/04/2023 - 17:27:38 - Melihat data part
+27/04/2023 - 17:27:49 - Membuka riwayat aktifitas program
+27/04/2023 - 17:29:06 - Login berhasil
+27/04/2023 - 17:32:42 - Login berhasil
+27/04/2023 - 17:32:51 - Login berhasil
+27/04/2023 - 17:33:42 - Login berhasil
+27/04/2023 - 17:34:25 - Login berhasil
+27/04/2023 - 17:34:46 - Menambahkan data part
+27/04/2023 - 17:35:09 - Login berhasil
+27/04/2023 - 17:35:46 - Menambahkan data part
+27/04/2023 - 17:36:15 - Login berhasil
+27/04/2023 - 17:37:15 - Login berhasil
+27/04/2023 - 17:37:37 - Menambahkan data part
+27/04/2023 - 17:37:52 - Login berhasil
+27/04/2023 - 17:38:09 - Login berhasil
+27/04/2023 - 17:38:47 - Menambahkan data part
+27/04/2023 - 17:39:57 - Login berhasil
+27/04/2023 - 17:40:57 - Login berhasil
+27/04/2023 - 17:41:48 - Login berhasil
+27/04/2023 - 17:42:06 - Menambahkan data servis
+27/04/2023 - 17:42:29 - Login berhasil
+27/04/2023 - 17:42:50 - Menambahkan data servis
+27/04/2023 - 17:43:05 - Menambahkan data servis
+27/04/2023 - 17:43:21 - Login berhasil
+27/04/2023 - 17:46:06 - Login berhasil
+27/04/2023 - 17:46:56 - Login berhasil
+27/04/2023 - 17:48:36 - Login berhasil
+27/04/2023 - 17:50:20 - Login berhasil
+27/04/2023 - 17:51:26 - Melihat data servis
+27/04/2023 - 17:51:32 - Searching data servis
+27/04/2023 - 17:51:45 - Searching data servis
+27/04/2023 - 17:51:45 - Searching data servis
+27/04/2023 - 17:51:45 - Searching data servis
+27/04/2023 - 17:51:45 - Searching data servis
+27/04/2023 - 17:51:45 - Searching data servis
+27/04/2023 - 17:51:56 - Searching data part
+27/04/2023 - 17:51:56 - Searching data part
+27/04/2023 - 17:51:56 - Searching data part
+27/04/2023 - 17:51:56 - Searching data part
+27/04/2023 - 17:51:56 - Searching data part
+27/04/2023 - 17:51:56 - Searching data part
+27/04/2023 - 17:52:05 - Sorting data servis
+27/04/2023 - 17:52:22 - Sorting data servis
+27/04/2023 - 17:52:50 - Membuka riwayat aktifitas program
+27/04/2023 - 17:53:03 - Membuka data pembuat program
+27/04/2023 - 17:54:23 - Login gagal
+27/04/2023 - 17:54:33 - Login berhasil
+27/04/2023 - 17:54:37 - Melihat data servis
+27/04/2023 - 17:54:42 - Melihat data part
+27/04/2023 - 20:35:18 - Login berhasil
+27/04/2023 - 20:35:47 - Login berhasil
+27/04/2023 - 20:38:06 - Login berhasil
+27/04/2023 - 20:38:57 - Login berhasil
+27/04/2023 - 20:40:13 - Login berhasil
+27/04/2023 - 20:42:42 - Login berhasil
+27/04/2023 - 20:43:15 - Menambahkan data servis
+27/04/2023 - 20:43:19 - Melihat data servis
+27/04/2023 - 20:45:25 - Login berhasil
+27/04/2023 - 20:45:34 - Melihat data servis
+27/04/2023 - 20:45:49 - Membuka data pembuat program
+27/04/2023 - 20:46:14 - Melihat data servis
+27/04/2023 - 20:46:17 - Melihat data part
+27/04/2023 - 20:46:32 - Sorting data part
+27/04/2023 - 20:46:40 - Membuka data pembuat program
+27/04/2023 - 20:47:46 - Login berhasil
+27/04/2023 - 20:53:12 - Login gagal
+27/04/2023 - 20:53:27 - Login berhasil
+27/04/2023 - 20:53:35 - Membuka data pembuat program
+27/04/2023 - 20:54:11 - Login berhasil
+27/04/2023 - 20:54:17 - Membuka data pembuat program
+27/04/2023 - 20:55:15 - Login berhasil
+27/04/2023 - 20:55:19 - Membuka riwayat aktifitas program
+27/04/2023 - 21:04:23 - Login berhasil
+27/04/2023 - 21:04:27 - Keluar dari program
+28/04/2023 - 09:18:49 - Login berhasil
+28/04/2023 - 09:19:23 - Membuka riwayat aktifitas program
+28/04/2023 - 09:19:32 - Melihat data servis
+28/04/2023 - 09:27:04 - Login berhasil
+28/04/2023 - 09:28:14 - Login berhasil
+28/04/2023 - 09:29:04 - Menambahkan data servis
+28/04/2023 - 09:29:08 - Melihat data servis
+28/04/2023 - 09:29:54 - Menambahkan data servis
+28/04/2023 - 09:30:26 - Menambahkan data servis
+28/04/2023 - 09:30:58 - Menambahkan data servis
+28/04/2023 - 09:31:38 - Menambahkan data servis
+28/04/2023 - 09:32:02 - Menambahkan data part
+28/04/2023 - 09:32:31 - Menambahkan data part
+28/04/2023 - 09:32:56 - Menambahkan data part
+28/04/2023 - 09:33:33 - Menambahkan data part
+28/04/2023 - 09:34:17 - Menambahkan data part
+28/04/2023 - 09:34:20 - Melihat data servis
+28/04/2023 - 09:34:26 - Melihat data part
+28/04/2023 - 09:34:46 - Membuka riwayat aktifitas program
+28/04/2023 - 09:35:09 - Sorting data servis
+28/04/2023 - 09:35:37 - Sorting data servis
+28/04/2023 - 09:35:49 - Sorting data servis
+28/04/2023 - 09:37:22 - Login berhasil
+28/04/2023 - 09:37:27 - Sorting data servis
+28/04/2023 - 09:39:06 - Login berhasil
+28/04/2023 - 09:39:18 - Sorting data part
+28/04/2023 - 09:39:50 - Searching data servis
+28/04/2023 - 09:39:50 - Searching data servis
+28/04/2023 - 09:39:50 - Searching data servis
+28/04/2023 - 11:24:52 - Login berhasil
+28/04/2023 - 11:25:27 - Melihat data part
+28/04/2023 - 11:25:33 - Melihat data servis
+28/04/2023 - 11:26:35 - Menambahkan data servis
+28/04/2023 - 11:26:39 - Melihat data servis
+28/04/2023 - 11:27:21 - Menambahkan data servis
+28/04/2023 - 11:27:26 - Melihat data servis
+28/04/2023 - 11:27:34 - Melihat data servis
+28/04/2023 - 11:28:23 - Searching data servis
+28/04/2023 - 11:28:23 - Searching data servis
+28/04/2023 - 11:28:50 - Searching data servis
+28/04/2023 - 11:28:50 - Searching data servis
+28/04/2023 - 11:29:17 - Sorting data servis
+28/04/2023 - 11:30:20 - Menambahkan data servis
+28/04/2023 - 11:30:40 - Searching data servis
+28/04/2023 - 11:30:40 - Searching data servis
+28/04/2023 - 11:30:40 - Searching data servis
+28/04/2023 - 11:30:56 - Sorting data servis
+28/04/2023 - 11:31:13 - Membuka riwayat aktifitas program
+05/05/2023 - 14:22:06 - Login berhasil
+05/05/2023 - 14:23:14 - Login berhasil
+05/05/2023 - 14:23:19 - Membuka riwayat aktifitas program
+16/05/2023 - 00:37:28 - Login berhasil
+16/05/2023 - 00:37:33 - Membuka riwayat aktifitas program
+16/05/2023 - 00:42:24 - Login berhasil
+16/05/2023 - 00:42:39 - Searching data servis
+16/05/2023 - 00:42:39 - Searching data servis
+16/05/2023 - 00:42:56 - Login berhasil
+16/05/2023 - 00:45:35 - Login berhasil
+16/05/2023 - 00:45:42 - Melihat data servis
+16/05/2023 - 00:45:57 - Searching data servis
+16/05/2023 - 00:45:57 - Searching data servis
+16/05/2023 - 00:45:57 - Searching data servis
+16/05/2023 - 00:46:08 - Login berhasil
+16/05/2023 - 00:46:23 - Searching data servis
+16/05/2023 - 00:46:23 - Searching data servis
+27/05/2023 - 15:04:06 - Login berhasil
+27/05/2023 - 15:04:19 - Membuka riwayat aktifitas program
+10/08/2023 - 14:38:06 - Login berhasil
+23/10/2023 - 10:52:53 - Login berhasil
+23/10/2023 - 10:52:59 - Melihat data servis
+23/10/2023 - 10:53:03 - Melihat data part
+23/10/2023 - 10:53:11 - Membuka riwayat aktifitas program
+12/06/2024 - 22:37:44 - Login berhasil
+12/06/2024 - 22:40:47 - Login berhasil
+12/06/2024 - 22:41:12 - Menambahkan data servis
+12/06/2024 - 22:41:17 - Melihat data servis
+15/05/2025 - 16:15:25 - Login berhasil
+15/05/2025 - 16:15:57 - Login berhasil
+15/05/2025 - 16:16:01 - Melihat data servis
+15/05/2025 - 16:16:14 - Menghapus data servis
+15/05/2025 - 16:16:19 - Melihat data servis
+15/05/2025 - 16:16:23 - Melihat data part

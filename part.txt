@@ -1,0 +1,5 @@
+1|REM|BREMBO|1|1000000
+2|KAMPas|Yamaha|2|100000
+3|SPION|yamaha|1|200000
+4|Velg|enkei|1|1200000
+5|Ban|Maxxis|3|350000

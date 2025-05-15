@@ -1,0 +1,8 @@
+1|ad 3777 kl|mx king|yamaha|ringan|starter susah
+2|AB 8888 WU|SATria|SuzuKi|berat|kena banjir
+3|ad 9999 na|mio|yamaha|berat|mati total
+4|aa 6542 nn|beat|honda|ringan|turun mesin
+5|kt 3231 mm|aerox|yamaha|berat|mogok
+6|AD 9999 HA|VArio|Honda|Ringan|Rusak Parah
+7|AD 8888 Ma|aerox|yamaha|berat|rusak parah
+8|AD 5555 ZZ|ABrox|yamaha|berat|rusak parah
