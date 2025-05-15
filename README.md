@@ -22,6 +22,7 @@ Data Structures
 The program uses two main data structures:
 
 1. Servis Structure:
+   ```bash
    typedef struct {
     int nomor_antrian;
     char plat_nomor[20];
@@ -29,16 +30,17 @@ The program uses two main data structures:
     char merk_kendaraan[50];
     char jenis_servis[10];
     char riwayat_kerusakan[255];
-} Servis;
+    } Servis;
 
-2. Part Structure:
+3. Part Structure:
+   ```bash
    typedef struct {
     int nomor_part;
     char jenis_part[50];
     char merk_part[50];
     int jumlah_part;
     int harga_part;
-} Part;
+   } Part;
 
 Algorithms and Logic
 - Search: Uses linear search to find data based on the selected criteria.
